@@ -10,7 +10,8 @@ Developer
 
 <a href="https://www.github.com/jajashini-cs22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jajashini-cs22?logo=github&style=for-the-badge&color=64748b&labelColor=000000" /></a>
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Maxwellrubert&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 ### Skills
 
 
